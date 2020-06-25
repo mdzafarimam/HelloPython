@@ -32,6 +32,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="requirements.txt" />
     <Content Include="templates\shopping.html" />
   </ItemGroup>
   <ItemGroup>
